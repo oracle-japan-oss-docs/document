@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is Test page.
 
 You can use the [editor on GitHub](https://github.com/oracle-japan-oss-docs/document/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
