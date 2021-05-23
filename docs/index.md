@@ -1,11 +1,9 @@
-# 準備中
-<br />
 
 #### Oracle OSS 日本語ドキュメント
 本ページでは以下のOracle OSS製品、ツールの日本語ドキュメントを公開しています。
 <br />
 
-1. Helidon
+1. [Helidon](https://oracle-japan-oss-docs.github.io/helidon/docs/v2/#/about/01_overview)
 2. Oracle WebLogic Kubernetes Operator
 <br />
 <br />
