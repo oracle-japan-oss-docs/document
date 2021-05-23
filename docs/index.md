@@ -4,7 +4,7 @@
 <br />
 
 1. [Helidon](https://oracle-japan-oss-docs.github.io/helidon/docs/v2/#/about/01_overview)
-2. Oracle WebLogic Kubernetes Operator
+2. Oracle WebLogic Kubernetes Operator（準備中）
 <br />
 <br />
 
