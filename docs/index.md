@@ -4,7 +4,7 @@
 <br />
 
 1. [Helidon 2.3.1](https://oracle-japan-oss-docs.github.io/helidon/docs/v2/#/about/01_overview)
-2. [Oracle WebLogic Kubernetes Operator 3.1.3] (https://oracle-japan-oss-docs.github.io/weblogic-kubernetes-operator/docs/)
+2. [Oracle WebLogic Kubernetes Operator 3.1.3](https://oracle-japan-oss-docs.github.io/weblogic-kubernetes-operator/docs/)
 <br />
 <br />
 
